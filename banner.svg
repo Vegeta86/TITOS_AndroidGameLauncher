@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="TITOS, el launcher definitivo para consolas Android">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2d2d2d"/>
+      <stop offset="1" stop-color="#141517"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#32b81a"/>
+      <stop offset="1" stop-color="#aa8cdc"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="318" rx="23" fill="none" stroke="#38393e" stroke-width="2"/>
+  <rect x="470" y="46" width="260" height="34" rx="17" fill="#32b81a" fill-opacity="0.12" stroke="#32b81a"/>
+  <text x="600" y="69" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5" fill="#32b81a">✦ LAUNCHER PARA CONSOLAS ANDROID</text>
+  <text x="600" y="170" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="84" font-weight="800" letter-spacing="6" fill="#ffffff">TITOS</text>
+  <text x="600" y="222" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="26" font-weight="600" fill="url(#accent)">Tu consola Android, transformada</text>
+  <text x="600" y="262" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="17" fill="#9ea3af">Pensado para mandos físicos · Sin anuncios · Gratis</text>
+</svg>
