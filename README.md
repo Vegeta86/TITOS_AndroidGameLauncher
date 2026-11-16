@@ -4,9 +4,9 @@
 
 <br>
 
-[![Visitar la web](https://img.shields.io/badge/Visitar_la_web-32b81a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vegeta86.github.io/titos/)
-[![Descargar APK](https://img.shields.io/badge/Descargar_APK-v1.0.0-541ab8?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Vegeta86/titos/releases/latest/download/TITOS.apk)
-[![Donar con PayPal](https://img.shields.io/badge/Donar_con_PayPal-0070BA?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/tipsjriverac)
+<a href="https://vegeta86.github.io/titos/"><img src="buttons/btn-web.svg" alt="Visitar la web" height="52"></a>
+<a href="https://github.com/Vegeta86/titos/releases/latest/download/TITOS.apk"><img src="buttons/btn-download.svg" alt="Descargar APK" height="52"></a>
+<a href="https://paypal.me/tipsjriverac"><img src="buttons/btn-donate.svg" alt="Donar con PayPal" height="52"></a>
 
 <br>
 
