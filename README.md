@@ -6,8 +6,8 @@
 <br>
 <br>
 
-<a href="https://vegeta86.github.io/titos/"><img src="buttons/btn-web.svg" alt="Visitar la web" height="52"></a>
-<a href="https://github.com/Vegeta86/titos/releases/latest/download/TITOS.apk"><img src="buttons/btn-download.svg" alt="Descargar APK" height="52"></a>
+<a href="https://vegeta86.github.io/TITOS_AndroidGameLauncher/"><img src="buttons/btn-web.svg" alt="Visitar la web" height="52"></a>
+<a href="https://github.com/Vegeta86/TITOS_AndroidGameLauncher/releases/latest/download/TITOS.apk"><img src="buttons/btn-download.svg" alt="Descargar APK" height="52"></a>
 <a href="https://paypal.me/tipsjriverac"><img src="buttons/btn-donate.svg" alt="Donar con PayPal" height="52"></a>
 
 <br>
@@ -64,7 +64,7 @@ Medido en una consola real (GT78-VN · MediaTek MT8789 · 4 GB de RAM · Android
 
 ## ⬇ Instalación
 
-1. Descarga el APK con el botón **Descargar APK** (o desde [Releases](https://github.com/Vegeta86/titos/releases)).
+1. Descarga el APK con el botón **Descargar APK** (o desde [Releases](https://github.com/Vegeta86/TITOS_AndroidGameLauncher/releases)).
 2. Permite instalar apps desconocidas: *Ajustes → Apps → Acceso especial → Instalar apps desconocidas*.
 3. Abre el APK y pulsa «Instalar».
 4. Sigue el asistente: idioma, permisos y carpetas de ROMs.
