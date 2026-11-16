@@ -45,6 +45,21 @@
 - **Organización total:** cuadrícula con todos tus juegos y apps; agrégalos o quítalos del carrusel en un paso.
 - **A tu estilo:** mapeo Nintendo, Xbox o PlayStation, selector HSV de color de acento y barra de estado con batería, Wi-Fi y reloj.
 
+## ✦ Rendimiento
+
+Medido en una consola real (GT78-VN · MediaTek MT8789 · 4 GB de RAM · Android 12), con el mismo procedimiento para todos los launchers.
+
+| Launcher | RAM reposo | RAM navegando | CPU reposo | APK | Arranque |
+|---|---:|---:|---:|---:|---:|
+| **TITOS** | **92,0 MB** | **100,2 MB** | **0,8 %** | **3,2 MB** | **259 ms** |
+| Launcher3 (Android) | 59,3 MB | 65,4 MB | 0,8 % | 5,9 MB | 133 ms |
+| AYANEO Home | 162,2 MB | 168,0 MB | 66,0 % | 115,0 MB | 329 ms |
+
+- TITOS usa un **43 % menos de RAM** que AYANEO Home y su APK es unas 36 veces más pequeño.
+- Launcher3 usa menos RAM porque es un launcher básico, sin carrusel, carátulas ni temas.
+- TITOS se midió con el carrusel de consolas sin juegos ni carátulas cargados: con una biblioteca grande la RAM sube.
+- CPU = % de un solo núcleo. [Metodología, script y datos en bruto](benchmark/README.md) · 16/11/2026.
+
 ## ⬇ Instalación
 
 1. Descarga el APK con el botón **Descargar APK** (o desde [Releases](https://github.com/Vegeta86/titos/releases)).
