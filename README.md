@@ -3,6 +3,8 @@
 <img src="banner.svg" alt="TITOS, el launcher definitivo para consolas Android" width="100%">
 
 <br>
+<br>
+<br>
 
 <a href="https://vegeta86.github.io/titos/"><img src="buttons/btn-web.svg" alt="Visitar la web" height="52"></a>
 <a href="https://github.com/Vegeta86/titos/releases/latest/download/TITOS.apk"><img src="buttons/btn-download.svg" alt="Descargar APK" height="52"></a>
